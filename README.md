@@ -17,8 +17,8 @@ Bem vindo ao meu GITHUB!
 ## 🚀 Projects
 Aqui estão alguns trabalhos desenvolvidos no aprendizado:
 - [**Project 1 HTML**](#): Objeto de treinar a estrutura da linguagem.
-- [**Project 2 CSS**](#): A peculiaridade de treinar os estilos .
-- [**Project 3 Responsivo**](#): A  finalidade de adpitar o diferente tamanhos de tela.
+- [**Project 2 CSS**](#): buscando os estilos .
+- [**Project 3 Responsivo**](#): Com a finalidade de adaptar os diferentes tamanhos de tela.
 
  🚀 Que tal dá uma olhada nos neles ! 😊
 
@@ -31,6 +31,6 @@ Aqui estão alguns trabalhos desenvolvidos no aprendizado:
 
 ---
     *** Obrigado por visitar meu perfil ! 
-             🚀  Fique à vontade para conferir meus projetos, me seguir ou
-           entrar em contato se quiser colaborar em algo incrível. 
-           Vamos construir algo incrível juntos!***  🚀
+             🚀  Fique à vontade para conferir meus projetos, me seguir ou entrar em contato,
+             se quiser estamos a disposição para aprender e colaborar  em novos desafios.
+              Vamos construir algo incrível juntos!***  🚀
